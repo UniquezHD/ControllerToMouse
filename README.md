@@ -2,8 +2,8 @@
 https://www.youtube.com/watch?v=7eX8Zdy9HLI
 
 Features:
-Move mouse around on screen and supports multiple screens
-Dragging things around
+- Move mouse around on screen and supports multiple screens
+- Dragging things around
 Sensivity settings
 Triangle is right mouse click
 X is left mouse click
