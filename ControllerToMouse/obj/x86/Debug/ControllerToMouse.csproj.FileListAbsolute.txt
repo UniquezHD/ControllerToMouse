@@ -1,0 +1,15 @@
+C:\Users\cecilie\source\repos\ControllerToMouse\ControllerToMouse\bin\x86\Debug\ControllerToMouse.exe.config
+C:\Users\cecilie\source\repos\ControllerToMouse\ControllerToMouse\bin\x86\Debug\ControllerToMouse.exe
+C:\Users\cecilie\source\repos\ControllerToMouse\ControllerToMouse\bin\x86\Debug\ControllerToMouse.pdb
+C:\Users\cecilie\source\repos\ControllerToMouse\ControllerToMouse\bin\x86\Debug\Microsoft.DirectX.DirectInput.dll
+C:\Users\cecilie\source\repos\ControllerToMouse\ControllerToMouse\bin\x86\Debug\Microsoft.DirectX.dll
+C:\Users\cecilie\source\repos\ControllerToMouse\ControllerToMouse\bin\x86\Debug\Microsoft.DirectX.DirectInput.xml
+C:\Users\cecilie\source\repos\ControllerToMouse\ControllerToMouse\bin\x86\Debug\Microsoft.DirectX.xml
+C:\Users\cecilie\source\repos\ControllerToMouse\ControllerToMouse\obj\x86\Debug\ControllerToMouse.csproj.AssemblyReference.cache
+C:\Users\cecilie\source\repos\ControllerToMouse\ControllerToMouse\obj\x86\Debug\ControllerToMouse.Form1.resources
+C:\Users\cecilie\source\repos\ControllerToMouse\ControllerToMouse\obj\x86\Debug\ControllerToMouse.Properties.Resources.resources
+C:\Users\cecilie\source\repos\ControllerToMouse\ControllerToMouse\obj\x86\Debug\ControllerToMouse.csproj.GenerateResource.cache
+C:\Users\cecilie\source\repos\ControllerToMouse\ControllerToMouse\obj\x86\Debug\ControllerToMouse.csproj.CoreCompileInputs.cache
+C:\Users\cecilie\source\repos\ControllerToMouse\ControllerToMouse\obj\x86\Debug\ControllerToMouse.csproj.CopyComplete
+C:\Users\cecilie\source\repos\ControllerToMouse\ControllerToMouse\obj\x86\Debug\ControllerToMouse.exe
+C:\Users\cecilie\source\repos\ControllerToMouse\ControllerToMouse\obj\x86\Debug\ControllerToMouse.pdb
