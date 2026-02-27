@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Diagnostics;
 using System.Drawing;
 using System.Drawing.Drawing2D;
@@ -510,7 +510,7 @@ namespace ControllerToMouse
                     }
                     else
                     {
-                        Process.Start("C:\\Users\\cecilie\\source\\repos\\On Screen Keyboard\\On Screen Keyboard\\bin\\Debug\\On Screen Keyboard.exe");
+                        Process.Start("C:\\Users\\xxxx\\source\\repos\\On Screen Keyboard\\On Screen Keyboard\\bin\\Debug\\On Screen Keyboard.exe");
                         richTextBox1.AppendText("On Screen Keyboard Spawned\n");
                     }
                 }
